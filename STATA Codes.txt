@@ -1,0 +1,9 @@
+Code for meta-analyses:
+
+metan risk_estimates SE, random lcols(Reference) xlabel (-1,1) favours (less consumption # greater consumption)
+
+
+Code for funnelplots:
+
+meta funnelplot
+meta bias, egger
